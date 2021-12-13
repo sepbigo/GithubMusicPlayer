@@ -2,9 +2,9 @@
 ![GMP图标](https://imgcdn.simsoft.top/upload/21-12-14-06-40-19-GMP_ICON.png)
 
 
-#介绍
+# 介绍
 将您的任意Github存储库作为您的专属音乐云盘
-#部署
+# 部署
 本项目完全傻瓜式部署，使用虚拟主机即可轻松完成。
 - 下载源码。
 - 上传“index.html”，“gmp.css”，“gmp.js”到您的网站域名根目录。
