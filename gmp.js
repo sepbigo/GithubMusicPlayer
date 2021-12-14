@@ -78,11 +78,13 @@ gmp={
 		gmp.play();
 	},
 	"startPlay":function(ele,songcount){//播放特定歌曲操作
-		if(songcount){ele=document.querySelector(".gmp-list[count^='"+ele+"']");}
+		if(songcount){
+			ele=document.querySelector(".gmp-list[count^='"+ele+"']");
+			setTimeout(function(){ele.scrollIntoView({block:"center",behavior:"smooth"})},200);
+		}
 		if(document.getElementsByClassName("playing")[0]){document.getElementsByClassName("playing")[0].classList.remove("playing");}
 		ele.classList.add("playing");
 		nowPlaying=Number(ele.getAttribute("count"));
-		setTimeout(function(){ele.scrollIntoView({behavior:"smooth"})},200);
 		gmp.reloadPlayer();
 	},
 	"switchMode":function(mode,ele){
