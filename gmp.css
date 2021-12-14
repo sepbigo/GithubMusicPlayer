@@ -28,3 +28,11 @@ footer{text-align:left;color:black;padding:5px;--progressBackgroundColor:#b7dfff
 .gmp-list:nth-child(1){border-top:none;}
 
 ::-webkit-scrollbar{display:none;}
+
+.dark{color:rgb(230,230,230);}
+.dark footer{--progressBackgroundColor:#003866;}
+.dark #playList svg,.dark .gmp-control-bottom svg{filter:invert(.9)}
+.dark .gmp-line{border-left:1px solid rgba(255,255,255,.3);}
+.dark .gmp-list:active{background:rgba(255,255,255,.1)}
+.gmp-list.playing{background:rgba(255,255,255,.1);}
+.dark #gmp-progress{filter:brightness(0.8);}
