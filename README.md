@@ -14,7 +14,7 @@ https://music.yanji.fun/
 - 在“gmp.js”中填写您的Github存储库信息。**您填写的存储库内必须全部为浏览器可以识别的音乐文件，否则无法正常播放。**
 - 打开您的域名。部署完成！
 
-**推荐使用[热铁盒网页托管](https://host.retiehe.com/)托管本项目，高速稳定免备案！**
+**推荐使用[热铁盒网页托管](https://host.retiehe.com/)托管本项目，高速稳定免备案。**
 # 兼容性
 本系统仅完美兼容FireFox和Chromium的最新版本。
 # 版权
