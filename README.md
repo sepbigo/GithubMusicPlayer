@@ -1,7 +1,8 @@
 # GithubMusicPlayer
 ![GMP图标](https://imgcdn.simsoft.top/upload/21-12-14-06-40-19-GMP_ICON.png)
 
-
+# 前排提示
+本项目现缓慢更新，且项目音频播放依赖的JsDelivr在国内部分地区被墙，可能导致无法正常使用。
 # 介绍
 将您的任意Github存储库作为您的专属音乐云盘
 # 示例站点
