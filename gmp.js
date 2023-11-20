@@ -1,8 +1,8 @@
 //配置部分 请按需修改
 GMP_CONFIG={
-	"REPO":"YanShuHao314/RandomMusic", //音乐所在存储库，例如"YanShuHao314/RandomMusic"，前后无需加斜杠
-	"SITE_NAME":"GithubMusicPlayer", //站点名称
-	"BACKGROUND_IMAGE":"https://cdn.jsdelivr.net/gh/YanShuHao314/Images@main/BG_2.jpg" //背景图像，建议和当前协议一致
+	"REPO":"sepbigo/mymusic", //音乐所在存储库，例如"YanShuHao314/RandomMusic"，前后无需加斜杠
+	"SITE_NAME":"院长的音乐站", //站点名称
+	"BACKGROUND_IMAGE":"https://photos.cecily.eu.org/file/248ea400f6f1256ce5f72.jpg" //背景图像，建议和当前协议一致
 }
 //==============配置部分结束，请勿随意修改下方代码==============//
 
